@@ -1,0 +1,20 @@
+export const actions={
+    addNoteAction({commit},...args){
+        commit('add_note',...args)
+    },
+    editNoteAction({commit},e){
+        commit('edit_note',e.target.value)
+    },
+    deleteNoteAction({commit},...args){
+        commit('delete_note',...args)
+    },
+    toggleFavoriteAction({commit},...args){
+        commit('toggle_favorite',...args)
+    },
+    updateActiveNoteAction({commit},...args){
+        commit('set_active_note',...args)
+    },
+    showNoteAction({commit},...args){
+        commit('show_note',...args)
+    }
+}
