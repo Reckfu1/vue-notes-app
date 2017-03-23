@@ -1,6 +1,10 @@
 # vue-notes-app
 
-> notes
+> A simple notes app | just for learning vue.js
+
+## Demo
+
+<a href="https://reckfu1.github.io/vue-notes-app/dist/">Live Demo</a>
 
 ## Build Setup
 
