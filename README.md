@@ -4,7 +4,7 @@
 
 ## Demo
 
-<a href="https://reckfu1.github.io/vue-notes-app/dist/">Live Demo</a>
+> <a href="https://reckfu1.github.io/vue-notes-app/dist/">Live Demo</a>
 
 ## Build Setup
 
