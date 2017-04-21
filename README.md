@@ -1,10 +1,16 @@
 # vue-notes-app
 
-> A simple notes app | just for learning vue.js
+> A simple notes app created with Vue2.x + Vuex | Just for learning Vue and comprehending Vuex
 
 ## Demo
 
-<a href="https://reckfu1.github.io/vue-notes-app/dist/">Live Demo</a>
+> <a href="https://reckfu1.github.io/vue-notes-app">Live Demo</a>
+
+## Libraries
+
+- [Vue](https://vuejs.org/) : The Progressive
+JavaScript Framework
+- [Vuex](https://vuex.vuejs.org) : Centralized State Management for Vue.js
 
 ## Build Setup
 
