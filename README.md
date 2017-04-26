@@ -12,10 +12,6 @@
 JavaScript Framework
 - [Vuex](https://vuex.vuejs.org) : Centralized State Management for Vue.js
 
-#Live
-
-> <a href="https://reckfu1.github.io/vue-notes-app/dist/">Live Demo</a>
-
 ## Build Setup
 
 ``` bash
