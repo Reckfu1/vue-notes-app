@@ -4,7 +4,6 @@
 
 ## Demo
 
-<<<<<<< HEAD
 > <a href="https://reckfu1.github.io/vue-notes-app">Live Demo</a>
 
 ## Libraries
@@ -12,9 +11,10 @@
 - [Vue](https://vuejs.org/) : The Progressive
 JavaScript Framework
 - [Vuex](https://vuex.vuejs.org) : Centralized State Management for Vue.js
-=======
+
+#Live
+
 > <a href="https://reckfu1.github.io/vue-notes-app/dist/">Live Demo</a>
->>>>>>> 6cc2fe5ece3aa9c12aab5186c5963c57db63df54
 
 ## Build Setup
 
